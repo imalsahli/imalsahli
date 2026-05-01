@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imalsahli&label=Profile%20views&color=555555&style=flat" />
+  <img src="https://img.shields.io/github/followers/imalsahli?label=Followers&style=flat&logo=github&color=000000&labelColor=555555" />
+</p>
 # Mohammed Alsahli
 
 **Deployment Support Engineer | Java/JEE | Spring Boot | Production Systems**
